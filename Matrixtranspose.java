@@ -1,4 +1,4 @@
-//To perform transpose of a matrix 
+//To perform the transpose of a matrix 
 import java.util.*;
 public class MatrixTranspose{
     public static void main(String args[]){
