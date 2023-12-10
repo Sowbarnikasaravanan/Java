@@ -1,3 +1,10 @@
+/* To display the star pattern 
+*
+**
+***
+****
+*****
+*/
 import java.util.*;
 public class StarPattern01{
     public static void main(String args[]){
