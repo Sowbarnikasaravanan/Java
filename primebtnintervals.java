@@ -1,4 +1,4 @@
-// To find all the prime numbers between the intervals
+// To find all the prime numbers between the two intervals
 import java.io.*;
 import java.util.*;
 class primebtnintervals{
