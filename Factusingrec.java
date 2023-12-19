@@ -1,4 +1,4 @@
-//To find the factorial of a number
+//To find the factorial of a given number
 import java.io.*;
 import java.util.*;
 class fctusingrec{
