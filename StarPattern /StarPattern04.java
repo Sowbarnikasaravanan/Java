@@ -1,4 +1,4 @@
-/* To display the Star pattern 
+/* To display the Star pattern in 
     *
    **
   ***
