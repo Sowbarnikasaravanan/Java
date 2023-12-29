@@ -1,7 +1,7 @@
 // To find the sum of first n natural numbers
 import java.io.*;
 import java.util.*;
-class sumofnatural{
+class sumofNatural{
   public static void main(String args[]){
     Scanner sc=new Scanner(System.in);
     System.out.println("Enter the natural number: ");
