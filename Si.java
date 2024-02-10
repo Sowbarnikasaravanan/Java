@@ -15,3 +15,12 @@ public class SimpleInterest{
     }
 }
 
+/*
+Sample Output:
+Enter the principal amount:1000
+Enter the No. of years:
+3
+Enter the rate of interest:
+5
+The simple interest is :150.0
+*/
