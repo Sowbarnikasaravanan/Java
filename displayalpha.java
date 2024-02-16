@@ -1,4 +1,4 @@
-//To  display all the alphabets
+//To  display all the letters of the alphabets 
 import java.io.*;
 class displayalpha{
   public static void main(String args[]){
