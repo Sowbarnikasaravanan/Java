@@ -1,4 +1,4 @@
-// To display the patterns in the inverted triangle  
+// To display the pattern in the inverted triangle  
 import java.util.*;
 class InvertedTriangle{
     public static void main(String args[]){
