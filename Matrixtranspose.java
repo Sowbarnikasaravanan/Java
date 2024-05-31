@@ -31,3 +31,32 @@ public class MatrixTranspose{
         }
     }
 }
+
+/*
+Enter the size of the row :
+3
+Enter the size of the column:
+4
+Enter the elements of the matrix:
+6
+7
+3
+5
+9
+1
+4
+2
+6
+8
+7
+4
+The elements of the matrix :
+6 7 3 5 
+9 1 4 2 
+6 8 7 4 
+The transpose matrix is :
+6 9 6 
+7 1 8 
+3 4 7 
+5 2 4 
+*/
